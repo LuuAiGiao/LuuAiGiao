@@ -2,7 +2,23 @@
 
 ###
 
-<p align="left">My name is <span style="color:#ff6ec7; font-weight: bold;">Luu Ai Giao</span> and I'm a Frontend Developer passionate about building beautiful and user-friendly web & mobile applications. <br> <br>I'm from Vietnam 🇻🇳, and currently looking for opportunities to grow and contribute to real-world projects.</p>
+<p align="left">
+  My name is <span style="color:#ff6ec7; font-weight: bold;">Luu Ai Giao ✨</span> and I'm a Frontend Developer passionate about building beautiful and user-friendly web & mobile applications. <br><br>
+  I'm from Vietnam, and currently looking for opportunities to grow and contribute to real-world projects.
+</p>
+
+<p align="center">
+  <em>🌱 "Forever a learner, coding forward with curiosity and grit." 🚀</em>
+</p>
+
+
+###
+
+<h3 align="left">✨ My Portfolio</h3>
+
+<p align="left">
+  👉 <a href="https://laggg.vercel.app/" target="_blank"><strong>Visit my portfolio</strong></a> to see my featured projects, UI/UX works, and mobile demos!
+</p>
 
 ###
 
@@ -12,6 +28,7 @@
 </div>
 
 ###
+<h3 align="left">🧰 Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -53,6 +70,13 @@
 
 ###
 
+<h3 align="left">🤝 Let's Connect!</h3>
+
+<p align="left">
+  <strong>Feel free to reach out</strong> — whether you're a fellow developer, recruiter, or just someone who loves code.<br>
+  I'd love to connect and learn from people around the world 🌍
+</p>
+
 <div align="left">
   <a href="giaola.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -64,14 +88,24 @@
 
 ###
 
+<h3 align="left">🌀 Fun Stuff</h3>
+
+- ✨ I love pixel-perfect UI
+- 🌈 Turning coffee, code, and creativity into beautiful UIs
+- 🚀 Always curious, always coding — say hi, I don't byte 😉
+
+###
+
+<h3 align="left">📜 Quote I live by</h3>
+
+> _“Stay hungry, stay foolish.”_ — Steve Jobs
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/LuuAiGiao/LuuAiGiao/output/snake.svg?v=2" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=@LuuAiGiao&theme=default" alt="Layout with last medium posts"  />
-</div>
-
-###
+<p align="center"><strong>Thanks for visiting my profile 💖 <br>Let’s grow together — one commit at a time.</strong></p>

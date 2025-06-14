@@ -1,4 +1,8 @@
-<h3 align="left">Hi 👋! My name is Luu Ai Giao and I'm a Frontend Developer passionate about building beautiful and user-friendly web & mobile applications.  <br>I'm from Vietnam 🇻🇳, and currently looking for opportunities to grow and contribute to real-world projects.</h3>
+<h3 align="left">Hi there 👋</h3>
+
+###
+
+<p align="left">My name is <span style="color:#ff6ec7; font-weight: bold;">Luu Ai Giao</span> and I'm a Frontend Developer passionate about building beautiful and user-friendly web & mobile applications. <br> <br>I'm from Vietnam 🇻🇳, and currently looking for opportunities to grow and contribute to real-world projects.</p>
 
 ###
 

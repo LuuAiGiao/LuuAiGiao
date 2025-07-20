@@ -106,4 +106,4 @@
 
 ###
 
-<p align="center"><strong>Thanks for visiting my profile 💖 <br>Let’s grow together — one commit at a time.</strong></p>
+<p align="center"><strong>Thanks for visiting my profile 💖</strong></p>
